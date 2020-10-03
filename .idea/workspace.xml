@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7799ad6-b1fd-44e5-8e68-3f76873f1374" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1iKP9pJPvqpUPDD5Ajhs2ws5Arc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../xampp/php/phpdbg.exe" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="PHP Script.animes.php">
+    <configuration name="animes.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Avancando-PHP/animes.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="ola.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ola.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.animes.php" />
+        <item itemvalue="PHP Script.ola.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7799ad6-b1fd-44e5-8e68-3f76873f1374" name="Default Changelist" comment="" />
+      <created>1601653163369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601653163369</updated>
+      <workItem from="1601653164443" duration="798000" />
+      <workItem from="1601654347145" duration="362000" />
+      <workItem from="1601654721561" duration="118000" />
+      <workItem from="1601655050207" duration="200000" />
+      <workItem from="1601673943302" duration="5439000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="219" y="0" key="#CLI_Interpreters" timestamp="1601655150420">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="219" y="0" key="#CLI_Interpreters/0.0.1366.728@0.0.1366.728" timestamp="1601655150420" />
+    <state x="133" y="0" width="1099" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601654279579">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="133" y="0" width="1099" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1601654279579" />
+    <state x="469" y="59" key="FileChooserDialogImpl" timestamp="1601655144445">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="469" y="59" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601655144445" />
+    <state width="1311" height="163" key="GridCell.Tab.0.bottom" timestamp="1601655253643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601655253643" />
+    <state width="1311" height="163" key="GridCell.Tab.0.center" timestamp="1601655253643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601655253643" />
+    <state width="1311" height="163" key="GridCell.Tab.0.left" timestamp="1601655253643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601655253643" />
+    <state width="1311" height="163" key="GridCell.Tab.0.right" timestamp="1601655253643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601655253643" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1601653202650">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1601653202650" />
+    <state x="119" y="0" key="SettingsEditor" timestamp="1601674219640">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="119" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601674219640" />
+    <state x="0" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog" timestamp="1601655118859">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1601655118859" />
+  </component>
+</project>
